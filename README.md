@@ -1,5 +1,3 @@
-<p align="center"><img src="https://readme-spinning-donut.vercel.app/api?theme=dark" alt="Spinning ASCII Donut" /></p>
-
 <div align="center">
 
 # ANAKIN_SKYWALKER
@@ -7,40 +5,22 @@
 
 </div>
 
-Building game mechanics, graphics tools, and low-level engine architecture.
+<p align="center"><img src="https://readme-spinning-donut.vercel.app/api?theme=dark" alt="Spinning ASCII Donut" /></p>
 
 ---
 
-### >_ Core Systems
+### >_ Featured Project
 
-- **DIABOLICAL** `Unity` `C#` - Monospaced terminal horror prototype driven by custom text state machines.
-- **BloomMerge_2.0** `Unity` `C#` - Multi-tier plant mechanics framework featuring 30FPS sprite asset pipelines.
-- **Kairo** `TypeScript` `React` - Collaborative link-management web platform.
+- **CAT** `Unity` `C#` - A focused game prototype centered on responsive mechanics, systems-driven interaction, and lightweight architecture.
 
 ---
 
-### >_ Engine & Tech Matrix
-
-**Languages**
-
-`C++` `C#` `Python` `HLSL` `GLSL`
-
-**Engines & Tools**
-
-`Unity` `Unreal Engine 5` `Aseprite` `Git` `Ollama`
-
----
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnakinSkywalker0&theme=synthwave&show_icons=true&hide_border=true&count_private=true" height="150"/></p>
+### >_ Core Toolkit
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://shadowwashere.artstation.com/">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
