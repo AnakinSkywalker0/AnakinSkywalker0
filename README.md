@@ -1,44 +1,25 @@
-```text
-                           .-""""-.
-                          /  .--.  \
-                         /  /    \  \
-                         |  |____|  |
-                         |  | /\ |  |
-                         |  |/__\|  |
-                         |   ____   |
-                         |  /.__.\  |
-                        /|  |====|  |\
-                       /_|  |____|  |_\ 
-                         /___/  \___\
-                        /__/      \__\
-                       /__/|      |\__\
-                      /___/        \___\
-```
+<p align="center"><img src="https://readme-spinning-donut.vercel.app/api?theme=dark" alt="Spinning ASCII Donut" /></p>
 
-# Abhishek Mishra
-`game-developer` / `systems-designer`
+<div align="center">
 
-I build game mechanics, graphics tools, and low-level engine systems.
+# ANAKIN_SKYWALKER
+>_ GAME_DEV // SYSTEMS_DESIGNER
+
+</div>
+
+Building game mechanics, graphics tools, and low-level engine architecture.
 
 ---
 
-### >_ Projects
+### >_ Core Systems
 
-- **DIABOLICAL**  
-  Monospaced terminal horror prototype built in `Unity` / `C#`. Focused on eerie pacing, tight interaction loops, and minimalist presentation.
-  `#unity` `#csharp` `#horror` `#prototype`
-
-- **BloomMerge_2.0**  
-  A `Unity` / `C#` sprite asset pipeline for creating, organizing, and iterating on game-ready art assets with less friction.
-  `#unity` `#csharp` `#sprites` `#pipeline`
-
-- **Kairo**  
-  A `TypeScript` / `React` / `GitHub` link-management platform designed for clean organization and fast access.
-  `#typescript` `#react` `#github` `#productivity`
+- **DIABOLICAL** `Unity` `C#` - Monospaced terminal horror prototype driven by custom text state machines.
+- **BloomMerge_2.0** `Unity` `C#` - Multi-tier plant mechanics framework featuring 30FPS sprite asset pipelines.
+- **Kairo** `TypeScript` `React` - Collaborative link-management web platform.
 
 ---
 
-### >_ Tech Stack
+### >_ Engine & Tech Matrix
 
 **Languages**
 
@@ -50,8 +31,16 @@ I build game mechanics, graphics tools, and low-level engine systems.
 
 ---
 
-### >_ Contact & Links
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnakinSkywalker0&theme=synthwave&show_icons=true&hide_border=true&count_private=true" height="150"/></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://shadowwashere.artstation.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://shadowwashere.artstation.com/">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
