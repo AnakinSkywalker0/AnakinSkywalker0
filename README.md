@@ -5,13 +5,11 @@
 
 </div>
 
-<p align="center"><img src="https://readme-spinning-donut.vercel.app/api?theme=dark" alt="Spinning ASCII Donut" /></p>
-
 ---
 
 ### >_ Featured Project
 
-- **CAT** `Unity` `C#` - A focused game prototype centered on responsive mechanics, systems-driven interaction, and lightweight architecture.
+- **CAT** `Unity` `C#` - A focused game prototype exploring responsive mechanics and lightweight systems architecture.
 
 ---
 
