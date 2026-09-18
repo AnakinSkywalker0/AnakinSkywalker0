@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 140" width="880" height="140" role="img" aria-label="Reflex Arc: a language model decides, a learned policy acts, hardware executes">
+  <line x1="196" y1="30" x2="196" y2="114" stroke="#30363d" stroke-width="1"/>
+  <text x="0" y="34" font-family="ui-monospace,&#x27;SF Mono&#x27;,&#x27;Cascadia Mono&#x27;,&#x27;Segoe UI Mono&#x27;,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="1.8" fill="#e6edf3">LANGUAGE MODEL</text>
+  <circle cx="196" cy="30" r="3.5" fill="#e0885c"/>
+  <text x="220" y="35" font-family="Georgia,&#x27;Iowan Old Style&#x27;,&#x27;Palatino Linotype&#x27;,&#x27;Times New Roman&#x27;,serif" font-size="14.5" font-style="italic" fill="#8b949e">decides what is worth doing</text>
+  <text x="0" y="76" font-family="ui-monospace,&#x27;SF Mono&#x27;,&#x27;Cascadia Mono&#x27;,&#x27;Segoe UI Mono&#x27;,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="1.8" fill="#e6edf3">LEARNED POLICY</text>
+  <circle cx="196" cy="72" r="3.5" fill="#e0885c"/>
+  <text x="220" y="77" font-family="Georgia,&#x27;Iowan Old Style&#x27;,&#x27;Palatino Linotype&#x27;,&#x27;Times New Roman&#x27;,serif" font-size="14.5" font-style="italic" fill="#8b949e">decides how the body moves</text>
+  <text x="0" y="118" font-family="ui-monospace,&#x27;SF Mono&#x27;,&#x27;Cascadia Mono&#x27;,&#x27;Segoe UI Mono&#x27;,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="1.8" fill="#e6edf3">HARDWARE</text>
+  <circle cx="196" cy="114" r="3.5" fill="#e0885c"/>
+  <text x="220" y="119" font-family="Georgia,&#x27;Iowan Old Style&#x27;,&#x27;Palatino Linotype&#x27;,&#x27;Times New Roman&#x27;,serif" font-size="14.5" font-style="italic" fill="#8b949e">does it, and does not ask why</text>
+</svg>
