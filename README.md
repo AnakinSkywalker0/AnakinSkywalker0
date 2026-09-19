@@ -58,19 +58,6 @@ languages  C++ · C# · Python
 adjacent   Blender · real-time inference · reinforcement learning
 ```
 
-## Recently
-
-<!-- ACTIVITY:START -->
-`2026-09-16` · [AnakinSkywalker0/Yes-Chef](https://github.com/AnakinSkywalker0/Yes-Chef) — pushed to `main`<br>
-`2026-09-10` · [AnakinSkywalker0/Yes-Chef](https://github.com/AnakinSkywalker0/Yes-Chef) — made it public<br>
-`2026-09-05` · [IshuIsAwake/reflex-arc](https://github.com/IshuIsAwake/reflex-arc) — opened branch `rover-bridge`<br>
-`2026-09-05` · [IshuIsAwake/reflex-arc](https://github.com/IshuIsAwake/reflex-arc) — pushed to `rover-link`<br>
-`2026-09-03` · [AnakinSkywalker0/collage](https://github.com/AnakinSkywalker0/collage) — made it public
-<!-- ACTIVITY:END -->
-
-<sub>That list rewrites itself daily from the public event feed —
-[workflow](.github/workflows/activity.yml) · [script](.github/scripts/update_activity.py)</sub>
-
 ---
 
 <sub>[All repositories](https://github.com/AnakinSkywalker0?tab=repositories)</sub>
