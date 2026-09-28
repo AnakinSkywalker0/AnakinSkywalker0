@@ -7,10 +7,7 @@ I work on real-time AI for games and robotics: boss behaviour, character control
 and control systems that turn a decision into motion within a frame budget. Unreal
 and Unity, C++ and C# for performance-critical code, Python for the inference side.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cat-dark.svg">
-  <img src="assets/cat-light.svg" width="880" alt="CAT — Combat Adaptation Transformer: adaptive boss AI for Unreal Engine">
-</picture>
+## CAT &nbsp;— Combat Adaptation Transformer
 
 An adaptive boss AI stack for Unreal Engine. It runs local real-time inference to
 read player behaviour, detect combat patterns, and rewrite the boss's tactics
@@ -19,11 +16,11 @@ doing and starts countering it.
 
 &nbsp;&nbsp;→ [Combat-Adaptation-Transformer](https://github.com/AnakinSkywalker0/Combat-Adaptation-Transformer) &nbsp;·&nbsp; `C++` `Unreal`
 
-<br>
+## Reflex Arc
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/arc-dark.svg">
-  <img src="assets/arc-light.svg" width="880" alt="Reflex Arc: a language model decides, a learned policy acts, hardware executes.">
+  <img src="assets/arc-light.svg" width="880" alt="Reflex Arc: a language model reasons about the goal, a learned policy maps state to action, hardware executes the commands.">
 </picture>
 
 A language model can plan but has no model of what the hardware it's directing can
