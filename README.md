@@ -3,10 +3,9 @@
   <img src="assets/header-light.svg" width="880" alt="Abhishek Mishra — game development, systems design, real-time control">
 </picture>
 
-I build things that have to move before they can be right. Most of my work sits in
-one seam: a system decides something, and a body — a boss, a rover, a character
-controller — has to do it inside a frame. Unreal and Unity, C++ and C# when the
-budget is tight, Python when the thing has to think.
+I work on real-time AI for games and robotics: boss behaviour, character controllers,
+and control systems that turn a decision into motion within a frame budget. Unreal
+and Unity, C++ and C# for performance-critical code, Python for the inference side.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cat-dark.svg">
@@ -27,14 +26,13 @@ doing and starts countering it.
   <img src="assets/arc-light.svg" width="880" alt="Reflex Arc: a language model decides, a learned policy acts, hardware executes.">
 </picture>
 
-A language model can reason about what ought to be done and has no idea what the
-body it is driving can physically do. A learned policy has the opposite deficit —
-precise, reactive, fast, and with no opinion about which coordinate matters. Reflex
-Arc stacks them so neither has to be the other, and points the result at a rover
-crossing a classroom-sized Mars.
+A language model can plan but has no model of what the hardware it's directing can
+physically do. A learned policy is fast and precise but has no reasoning about
+goals. Reflex Arc pairs an LLM planner with a trained control policy and runs the
+result on a rover navigating a classroom-sized Mars testbed.
 
-I work the seam in the middle: the bridge that turns the planner's intent into motor
-commands, and keeps the rover driving when the network stalls.
+I build the layer between them — translating the planner's output into motor
+commands, and keeping the rover moving if the network connection drops.
 
 &nbsp;&nbsp;→ [IshuIsAwake/reflex-arc](https://github.com/IshuIsAwake/reflex-arc) &nbsp;·&nbsp; `Python` `RL` `hardware`
 

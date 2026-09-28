@@ -34,18 +34,18 @@
   <rect x="0" y="0" width="880" height="230" rx="12" fill="none" stroke="#d7d8dc" stroke-width="1"/>
 
   <text x="34" y="45" font-family="ui-monospace,'SF Mono','Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="11.5" letter-spacing="3" fill="#a8552c">REFLEX ARC</text>
-  <text x="34" y="80" font-family="Arial,'Helvetica Neue',Helvetica,sans-serif" font-weight="800" font-size="24" letter-spacing="-0.4" fill="#14171a">Language models decide. Learned policies act.</text>
+  <text x="34" y="80" font-family="Arial,'Helvetica Neue',Helvetica,sans-serif" font-weight="800" font-size="24" letter-spacing="-0.4" fill="#14171a">An LLM planner paired with a learned control policy</text>
 
   <g font-family="ui-monospace,'SF Mono','Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace">
     <line x1="196" y1="112" x2="196" y2="196" stroke="#d7dbe0" stroke-width="1"/>
     <text x="0" y="116" font-size="11.5" letter-spacing="1.8" fill="#14171a">LANGUAGE MODEL</text>
     <circle cx="196" cy="112" r="3.5" fill="#a8552c"/>
-    <text x="220" y="117" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif" font-size="14.5" font-style="italic" fill="#5c6067">decides what is worth doing</text>
+    <text x="220" y="117" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif" font-size="14.5" font-style="italic" fill="#5c6067">reasons about the goal</text>
     <text x="0" y="154" font-size="11.5" letter-spacing="1.8" fill="#14171a">LEARNED POLICY</text>
     <circle cx="196" cy="150" r="3.5" fill="#a8552c"/>
-    <text x="220" y="155" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif" font-size="14.5" font-style="italic" fill="#5c6067">decides how the body moves</text>
+    <text x="220" y="155" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif" font-size="14.5" font-style="italic" fill="#5c6067">maps state to action</text>
     <text x="0" y="196" font-size="11.5" letter-spacing="1.8" fill="#14171a">HARDWARE</text>
     <circle cx="196" cy="192" r="3.5" fill="#a8552c"/>
-    <text x="220" y="197" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif" font-size="14.5" font-style="italic" fill="#5c6067">does it, and does not ask why</text>
+    <text x="220" y="197" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif" font-size="14.5" font-style="italic" fill="#5c6067">executes the commands</text>
   </g>
 </svg>
