@@ -8,7 +8,10 @@ one seam: a system decides something, and a body — a boss, a rover, a characte
 controller — has to do it inside a frame. Unreal and Unity, C++ and C# when the
 budget is tight, Python when the thing has to think.
 
-## CAT &nbsp;— Combat Adaptation Transformer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cat-dark.svg">
+  <img src="assets/cat-light.svg" width="880" alt="CAT — Combat Adaptation Transformer: adaptive boss AI for Unreal Engine">
+</picture>
 
 An adaptive boss AI stack for Unreal Engine. It runs local real-time inference to
 read player behaviour, detect combat patterns, and rewrite the boss's tactics
@@ -17,9 +20,7 @@ doing and starts countering it.
 
 &nbsp;&nbsp;→ [Combat-Adaptation-Transformer](https://github.com/AnakinSkywalker0/Combat-Adaptation-Transformer) &nbsp;·&nbsp; `C++` `Unreal`
 
-## Reflex Arc
-
-**Language models decide. Learned policies act.**
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/arc-dark.svg">
