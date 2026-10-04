@@ -1,59 +1,39 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="880" alt="Abhishek Mishra — game development, systems design, real-time control">
-</picture>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=F0F0F0&center=true&width=500&lines=Real-time+AI+for+games+and+robotics.;Unreal+%C2%B7+Unity+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Python" />
+</p>
 
-I work on real-time AI for games and robotics: boss behaviour, character controllers,
-and control systems that turn a decision into motion within a frame budget. Unreal
-and Unity, C++ and C# for performance-critical code, Python for the inference side.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnakinSkywalker0&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinSkywalker0&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
+</p>
 
-## CAT &nbsp;— Combat Adaptation Transformer
+I build the layer between decision and motion — boss AI that reads the player mid-fight, controllers that keep hardware moving when the network drops, and real-time systems that have to finish inside a frame budget.
 
-An adaptive boss AI stack for Unreal Engine. It runs local real-time inference to
-read player behaviour, detect combat patterns, and rewrite the boss's tactics
-mid-fight. Instead of cycling scripted phases, the encounter learns what you keep
-doing and starts countering it.
+## Work
 
-&nbsp;&nbsp;→ [Combat-Adaptation-Transformer](https://github.com/AnakinSkywalker0/Combat-Adaptation-Transformer) &nbsp;·&nbsp; `C++` `Unreal`
+**[CAT — Combat Adaptation Transformer](https://github.com/AnakinSkywalker0/Combat-Adaptation-Transformer)**  
+Adaptive boss AI for Unreal Engine. Local inference reads player patterns and rewrites tactics mid-encounter. `C++` `Unreal`
 
-## Reflex Arc
+**[Reflex Arc](https://github.com/IshuIsAwake/reflex-arc)**  
+LLM planner paired with a learned control policy, running on a Mars rover testbed. I handle the translation layer and offline fallback. `Python` `RL` `hardware`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/arc-dark.svg">
-  <img src="assets/arc-light.svg" width="880" alt="Reflex Arc: a language model reasons about the goal, a learned policy maps state to action, hardware executes the commands.">
-</picture>
-
-A language model can plan but has no model of what the hardware it's directing can
-physically do. A learned policy is fast and precise but has no reasoning about
-goals. Reflex Arc pairs an LLM planner with a trained control policy and runs the
-result on a rover navigating a classroom-sized Mars testbed.
-
-I build the layer between them — translating the planner's output into motor
-commands, and keeping the rover moving if the network connection drops.
-
-&nbsp;&nbsp;→ [IshuIsAwake/reflex-arc](https://github.com/IshuIsAwake/reflex-arc) &nbsp;·&nbsp; `Python` `RL` `hardware`
-
-## Smaller pieces
-
-[**Dragon Arena Battle**](https://github.com/AnakinSkywalker0/DragonArenaBattle) — a 2.5D
-arena in Unity 6.3, player against an FSM-driven dragon with fire, tail and flight.
-Two hours, start to polish, kept as a clean record of how it was built.<br>
-[**Node Based Dialogue System**](https://github.com/AnakinSkywalker0/NodeBasedDialogueSystem) — branching
-dialogue authored on a graph, built on Unity's own GraphView API rather than a plugin.<br>
-[**Morse Input**](https://github.com/AnakinSkywalker0/Morse_input_unity) — timing-detection
-logic that reads Morse from key presses and maps it onto game actions. `J` for jump.<br>
-[**Emotiv EPOC X × Unity**](https://github.com/AnakinSkywalker0/Emotiv-Epoc-X-Unity-test-) — an
-EEG headset wired into a Unity scene, to find out what an unreliable input channel
-does to game feel.
+**[Dragon Arena Battle](https://github.com/AnakinSkywalker0/DragonArenaBattle)** — Unity 6.3 FSM-driven arena boss.  
+**[Node Based Dialogue System](https://github.com/AnakinSkywalker0/NodeBasedDialogueSystem)** — graph-authored dialogue using Unity GraphView.  
+**[Morse Input](https://github.com/AnakinSkywalker0/Morse_input_unity)** — timing-based Morse input mapped to game actions.  
+**[Emotiv EPOC X × Unity](https://github.com/AnakinSkywalker0/Emotiv-Epoc-X-Unity-test-)** — EEG input channel experiments in Unity.
 
 ## Toolkit
 
-```
-engines    Unreal · Unity
-languages  C++ · C# · Python
-adjacent   Blender · real-time inference · reinforcement learning
-```
+<p>
+  <img src="https://img.shields.io/badge/Unreal-0E1128?logo=unrealengine&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
+</p>
 
 ---
 
-<sub>[All repositories](https://github.com/AnakinSkywalker0?tab=repositories)</sub>
+<sub><a href="https://github.com/AnakinSkywalker0?tab=repositories">All repositories</a></sub>
