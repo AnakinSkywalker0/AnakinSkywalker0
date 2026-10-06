@@ -15,19 +15,19 @@
 ## Work
 
 **[blackbox](https://github.com/AnakinSkywalker0/blackbox)**  
-A flight recorder for your computer's performance. `bb why` tells you why it was slow. `Rust`
+A flight recorder for your computer's performance. It samples CPU, memory, disk, GPU, battery and temperature in the background, then answers `bb why 15:40` in plain English when something felt slow. It even ships `bb selftest`, which causes real slowdowns and checks that the explanations name the right cause. `Rust`
 
 **[CAT — Combat Adaptation Transformer](https://github.com/AnakinSkywalker0/Combat-Adaptation-Transformer)**  
-Adaptive boss AI for Unreal Engine. Local inference reads player patterns and rewrites tactics mid-encounter. `C++` `Unreal`
+An adaptive boss AI prototype for Unreal Engine 5.5. It tracks player actions in a rolling combat buffer, runs local NVIGI inference off the game thread, and maps model output into live tactics like `COUNTER_LOW` and `AGGRESSIVE_PRESS` so the boss evolves mid-fight instead of following a script. `C++` `Unreal`
 
 **[Reflex Arc](https://github.com/IshuIsAwake/reflex-arc)**  
-LLM planner paired with a learned control policy. I handle the translation layer and offline fallback. `Python` `RL`
+An LLM-plus-RL architecture that separates deciding from acting. A language model reasons about goals while a learned policy handles low-level control, bridged by a translation layer with offline fallback. I work on the rover track, training in a custom simulator and running on real hardware. `Python` `RL`
 
 **[PulsarSr](https://github.com/AnakinSkywalker0/PulsarSr)**  
-Rust pulsar search pipeline with PRESTO verification and split-data candidate confirmation. `Rust`
+A Rust pulsar-search pipeline that reads SIGPROC filterbanks, masks RFI, dedisperses across trial DMs, and runs FFT/harmonic searches. It uses split-data candidate confirmation to accept persistent signals and reject interference, verified against the PRESTO GBT tutorial dataset. `Rust`
 
 **[Yes-Chef](https://github.com/AnakinSkywalker0/Yes-Chef)**  
-A single-chef kitchen game built in Unity. `C#` `Unity`
+A single-chef kitchen game built in Unity. Customers place orders, you fetch and prepare ingredients before they go stale, and the scoring rules are fully covered by EditMode unit tests. `C#` `Unity`
 
 ## Activity
 
