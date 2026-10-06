@@ -1,13 +1,5 @@
 <p align="center">
-  <sub>✦ · ⭑ · ✧ · ⭐ · ✦ · ⭑ · ✧</sub>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFD700&center=true&width=500&lines=Real-time+AI+for+games+and+robotics.;Unity+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Operating+Systems" />
-</p>
-
-<p align="center">
-  <sub>✧ · ✦ · ⭐ · ⭑ · ✧ · ✦ · ⭐</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFD700&center=true&width=650&lines=Real-time+AI+for+games+and+robotics.;Unity+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Operating+Systems" />
 </p>
 
 <p align="center">
