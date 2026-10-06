@@ -1,13 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=F0F0F0&center=true&width=500&lines=Real-time+AI+for+games+and+robotics.;Unreal+%C2%B7+Unity+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Python" />
+  <sub>✦ · ⭑ · ✧ · ⭐ · ✦ · ⭑ · ✧</sub>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnakinSkywalker0&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinSkywalker0&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFD700&center=true&width=500&lines=Real-time+AI+for+games+and+robotics.;Unity+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Operating+Systems" />
 </p>
 
-I build the layer between decision and motion — boss AI that reads the player mid-fight, controllers that keep hardware moving when the network drops, and real-time systems that have to finish inside a frame budget.
+<p align="center">
+  <sub>✧ · ✦ · ⭐ · ⭑ · ✧ · ✦ · ⭐</sub>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnakinSkywalker0&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=0d1117&title_color=ffd700&text_color=f0f0f0&icon_color=ffd700" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinSkywalker0&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=ffd700&text_color=f0f0f0" height="160" />
+</p>
+
+I try to make cool stuff — and occasionally blow up a Death Star or two along the way.
 
 ## Work
 
@@ -25,13 +33,14 @@ LLM planner paired with a learned control policy, running on a Mars rover testbe
 ## Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Unreal-0E1128?logo=unrealengine&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=FFD700&style=flat-square" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=FFD700&style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-000000?logo=c%2B%2B&logoColor=FFD700&style=flat-square" />
+  <img src="https://img.shields.io/badge/C%23-000000?logo=csharp&logoColor=FFD700&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=FFD700&style=flat-square" />
+  <img src="https://img.shields.io/badge/Unreal-000000?logo=unrealengine&logoColor=FFD700&style=flat-square" />
+  <img src="https://img.shields.io/badge/Blender-000000?logo=blender&logoColor=FFD700&style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-000000?logo=pytorch&logoColor=FFD700&style=flat-square" />
 </p>
 
 ---
