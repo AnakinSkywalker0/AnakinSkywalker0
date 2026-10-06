@@ -6,10 +6,6 @@
   I try to make cool stuff, and occasionally blow up a Death Star or two along the way.
 </p>
 
-## About Me
-
-I build real-time systems and AI for games. Most of my work lives in Unity and Rust, with the occasional operating-system deep dive. I care about frame budgets, clean architecture, and systems that keep working when everything else breaks.
-
 ## Tech Stack
 
 <p align="center">
