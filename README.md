@@ -2,9 +2,21 @@
   <img src="assets/header-dark.svg" alt="Abhishek Mishra — real-time systems and AI for games" />
 </p>
 
-I try to make cool stuff — and occasionally blow up a Death Star or two along the way.
+<p align="center">
+  I try to make cool stuff — and occasionally blow up a Death Star or two along the way.
+</p>
 
-## Work
+## 🚀 About Me
+
+I build real-time systems and AI for games. Most of my work lives in Unity and Rust, with the occasional operating-system deep dive. I care about frame budgets, clean architecture, and systems that keep working when everything else breaks.
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,rust,cpp,cs,python,unreal,blender,pytorch&theme=dark" />
+</p>
+
+## 💼 Work
 
 **[blackbox](https://github.com/AnakinSkywalker0/blackbox)**  
 A flight recorder for your computer's performance. `bb why` tells you why it was slow. `Rust`
@@ -21,19 +33,14 @@ Rust pulsar search pipeline with PRESTO verification and split-data candidate co
 **[Yes-Chef](https://github.com/AnakinSkywalker0/Yes-Chef)**  
 A single-chef kitchen game built in Unity. `C#` `Unity`
 
-## Toolkit
+## 📈 Activity
 
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=FFD700&style=flat-square" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=FFD700&style=flat-square" />
-  <img src="https://img.shields.io/badge/C++-000000?logo=c%2B%2B&logoColor=FFD700&style=flat-square" />
-  <img src="https://img.shields.io/badge/C%23-000000?logo=csharp&logoColor=FFD700&style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=FFD700&style=flat-square" />
-  <img src="https://img.shields.io/badge/Unreal-000000?logo=unrealengine&logoColor=FFD700&style=flat-square" />
-  <img src="https://img.shields.io/badge/Blender-000000?logo=blender&logoColor=FFD700&style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-000000?logo=pytorch&logoColor=FFD700&style=flat-square" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnakinSkywalker0&theme=custom&bg_color=0d1117&color=ffd700&line=ffd700&point=ffffff&area_color=ffd700&area=true&hide_border=true" />
 </p>
 
 ---
 
-<sub><a href="https://github.com/AnakinSkywalker0?tab=repositories">All repositories</a></sub>
+<p align="center">
+  <sub><a href="https://github.com/AnakinSkywalker0?tab=repositories">All repositories</a></sub>
+</p>
