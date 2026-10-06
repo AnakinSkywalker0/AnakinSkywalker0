@@ -15,7 +15,7 @@ I try to make cool stuff — and occasionally blow up a Death Star or two along 
 Adaptive boss AI for Unreal Engine. Local inference reads player patterns and rewrites tactics mid-encounter. `C++` `Unreal`
 
 **[Reflex Arc](https://github.com/IshuIsAwake/reflex-arc)**  
-LLM planner paired with a learned control policy, running on a Mars rover testbed. I handle the translation layer and offline fallback. `Python` `RL` `hardware`
+LLM planner paired with a learned control policy. I handle the translation layer and offline fallback. `Python` `RL`
 
 **[Dragon Arena Battle](https://github.com/AnakinSkywalker0/DragonArenaBattle)** — Unity 6.3 FSM-driven arena boss.  
 **[Node Based Dialogue System](https://github.com/AnakinSkywalker0/NodeBasedDialogueSystem)** — graph-authored dialogue using Unity GraphView.  
