@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFD700&center=true&width=650&lines=Real-time+AI+for+games+and+robotics.;Unity+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Operating+Systems" />
+  <img src="assets/header-dark.svg" alt="Abhishek Mishra — real-time systems for games and robotics" />
 </p>
 
 <p align="center">
