@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="assets/header-dark.svg" alt="Abhishek Mishra — real-time systems for games and robotics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnakinSkywalker0&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=0d1117&title_color=ffd700&text_color=f0f0f0&icon_color=ffd700" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinSkywalker0&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=ffd700&text_color=f0f0f0" height="160" />
+  <img src="assets/header-dark.svg" alt="Abhishek Mishra — real-time systems and AI for games" />
 </p>
 
 I try to make cool stuff — and occasionally blow up a Death Star or two along the way.
