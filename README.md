@@ -39,8 +39,6 @@ A single-chef kitchen game built in Unity. `C#` `Unity`
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnakinSkywalker0&theme=custom&bg_color=0d1117&color=ffd700&line=ffd700&point=ffffff&area_color=ffd700&area=true&hide_border=true" />
 </p>
 
----
-
 <p align="center">
   <sub><a href="https://github.com/AnakinSkywalker0?tab=repositories">All repositories</a></sub>
 </p>
