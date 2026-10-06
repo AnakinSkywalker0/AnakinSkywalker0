@@ -6,16 +6,20 @@ I try to make cool stuff — and occasionally blow up a Death Star or two along 
 
 ## Work
 
+**[blackbox](https://github.com/AnakinSkywalker0/blackbox)**  
+A flight recorder for your computer's performance. `bb why` tells you why it was slow. `Rust`
+
 **[CAT — Combat Adaptation Transformer](https://github.com/AnakinSkywalker0/Combat-Adaptation-Transformer)**  
 Adaptive boss AI for Unreal Engine. Local inference reads player patterns and rewrites tactics mid-encounter. `C++` `Unreal`
 
 **[Reflex Arc](https://github.com/IshuIsAwake/reflex-arc)**  
 LLM planner paired with a learned control policy. I handle the translation layer and offline fallback. `Python` `RL`
 
-**[Dragon Arena Battle](https://github.com/AnakinSkywalker0/DragonArenaBattle)** — Unity 6.3 FSM-driven arena boss.  
-**[Node Based Dialogue System](https://github.com/AnakinSkywalker0/NodeBasedDialogueSystem)** — graph-authored dialogue using Unity GraphView.  
-**[Morse Input](https://github.com/AnakinSkywalker0/Morse_input_unity)** — timing-based Morse input mapped to game actions.  
-**[Emotiv EPOC X × Unity](https://github.com/AnakinSkywalker0/Emotiv-Epoc-X-Unity-test-)** — EEG input channel experiments in Unity.
+**[PulsarSr](https://github.com/AnakinSkywalker0/PulsarSr)**  
+Rust pulsar search pipeline with PRESTO verification and split-data candidate confirmation. `Rust`
+
+**[Yes-Chef](https://github.com/AnakinSkywalker0/Yes-Chef)**  
+A single-chef kitchen game built in Unity. `C#` `Unity`
 
 ## Toolkit
 
