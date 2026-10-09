@@ -1,8 +1,14 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-    <img src="assets/header-dark.svg" alt="Abhishek Mishra. Games, tools and strange little systems." width="100%" />
-  </picture>
+  <a href="https://anakinskywalker0.github.io/Portfolio/">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+      <img src="assets/header-dark.svg" alt="Abhishek Mishra. Games, tools and strange little systems." width="100%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://anakinskywalker0.github.io/Portfolio/">Portfolio</a>
 </p>
 
 <p align="center">
