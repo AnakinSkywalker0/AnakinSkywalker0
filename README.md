@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-    <img src="assets/header-dark.svg" alt="Abhishek Mishra. Real-time systems and AI for games." width="100%" />
+    <img src="assets/header-dark.svg" alt="Abhishek Mishra. Games, tools and strange little systems." width="100%" />
   </picture>
 </p>
 
