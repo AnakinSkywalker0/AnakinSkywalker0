@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/header-dark.svg" alt="Abhishek Mishra — real-time systems and AI for games" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+    <img src="assets/header-dark.svg" alt="Abhishek Mishra. Real-time systems and AI for games." width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -32,7 +35,7 @@ A single-chef kitchen game built in Unity. Customers place orders, you fetch and
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnakinSkywalker0&theme=custom&bg_color=0d1117&color=ffd700&line=ffd700&point=ffffff&area_color=ffd700&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnakinSkywalker0&theme=custom&bg_color=0d1117&color=8b949e&line=d8a47f&point=eeece8&area_color=d8a47f&area=true&hide_border=true" />
 </p>
 
 <p align="center">
